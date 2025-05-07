@@ -85,9 +85,7 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true"><br><br>
-
+![Gayeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=agy125@naver.com&show_icons=true&theme=radical)  
  
 <div align=center><h2>📑 Certificate </h2>
 
