@@ -50,7 +50,6 @@
 <br>
 <h3>백엔드</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -62,9 +61,16 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 
 <br>
-<h3>기타</h3>
+<h3>AI</h3>
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white">
+<img src="https://img.shields.io/badge/Skeleton-111F68?style=for-the-badge&logo=Skeleton&logoColor=white">
+<img src="https://img.shields.io/badge/Skeleton-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+</br>
+
+
+<br>
+<h3>클라우드</h3>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimtaegi4612&layout=compact"><br><br>
