@@ -85,9 +85,12 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agy125@naver.com&show_icons=true&theme=radical)  
+<!-- GitHub Stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon)](https://github.com/Agayeon/github-readme-stats)
+<!-- Most Used Languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact)](https://github.com/Agayeon/github-readme-stats)
+
  
 <div align=center><h2>📑 Certificate </h2>
 
