@@ -59,6 +59,7 @@
 <h3>데이터베이스</h3>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 
 <br>
 <h3>기타</h3>
