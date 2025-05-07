@@ -63,8 +63,8 @@
 <br>
 <h3>AI</h3>
 <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white">
-<img src="https://img.shields.io/badge/Skeleton-111F68?style=for-the-badge&logo=Skeleton&logoColor=white">
-<img src="https://img.shields.io/badge/Skeleton-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Skeleton-149EF2?style=for-the-badge&logo=Skeleton&logoColor=white">
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 </br>
 
 
