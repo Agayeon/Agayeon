@@ -71,9 +71,10 @@
 <br>
 <h3>클라우드</h3>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimtaegi4612&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Kimtaegi4612&show_icons=true"><br><br>
 
  
