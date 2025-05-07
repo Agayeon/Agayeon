@@ -48,7 +48,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white">
  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+
 
 <br>
 <h3>백엔드</h3>
@@ -75,8 +75,16 @@
 <h3>클라우드</h3>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-DD2C00?style=for-the-badge&logo=firebase&logoColor=white">
+</br>
 
-<br><br>
+<br>
+<h3>Tool</h3>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true"><br><br>
 
