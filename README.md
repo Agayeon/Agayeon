@@ -14,7 +14,7 @@
 
 🌍 신한투자증권 프로디지털 아카데미 1기 (22.12.15 ~ 23.02.24)
 
-🌍 신한 알파 "ECO Project" 기획 및 프론트엔드
+🌍 신한 알파 "ECO Project" 친황경 주식 프로젝트 기획 및 프론트엔드 개발
 
 👨‍🎓 한국정보인재개발원 파이썬프로그래밍활용능력 2급 취득 ( 2023.03 ~ 2023.04.10 )
 
@@ -30,14 +30,15 @@
 
 📚 향해 99 코딩테스트 Python 스터디 2기 (24.05.27 ~ 24.06.28)
 
-🎤 Toeic Speaking IH 취득 (24.09.16)
+
 
 
 🌍 신한DS SW 금융 아카데미 5기 (25.04.01 ~ ing)
 
 </div> 
 <div align=center>
-   <h2>📚 Tech Stack 📚</h2>
+
+  ## <h2>📚 Tech Stack 📚</h2>
    <p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
@@ -46,6 +47,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
 <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-%#4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <br>
 <h3>백엔드</h3>
@@ -75,19 +78,15 @@
 
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Kimtaegi4612&show_icons=true"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true"><br><br>
 
  
 <div align=center><h2>📑 Certificate </h2>
 
 파이썬프로그래밍활용능력 2급(2023.04)
-
 인공지능활용분석 2급 (2023.06)
-
+Toeic Speaking IH 취득 (24.09.16)
 정보처리기사(필기)
-
 SQLD
-
 ADSP
-
 </div>
