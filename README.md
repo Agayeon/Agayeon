@@ -4,7 +4,9 @@
 </div>
 
 <div align=center><h2>SNS</h2>
-https://www.notion.so/gayeonportfolio/6e842c05b96b43919562cef19eaa8c6b
+🔗 GitHub: [https://github.com/Agayeon](https://github.com/Agayeon)  
+🔗 Notion 포트폴리오: [나의 포트폴리오](https://www.notion.so/gayeonportfolio/6e842c05b96b43919562cef19eaa8c6b)
+
 
 
 <div align=center><h2>Career</h2>
