@@ -2,10 +2,6 @@
       <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gayeon%20Github!&fontSize=40" />   
 
 </div>
-
-<a href="https://github.com/Agayeon">
-    <img src="contributions.svg" />
-</a>  
 <div align="center">
   <h2>SNS</h2>
   <a href="https://www.notion.so/gayeonportfolio/6e842c05b96b43919562cef19eaa8c6b" target="_blank">
