@@ -97,11 +97,11 @@
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </br>
 
-<!-- GitHub Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true&theme=radical)
-
-<!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact)](https://github.com/Agayeon/github-readme-stats)
+<!-- 📊 GITHUB STATS -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact&theme=radical" height="165">
+</div>
 
  
 <div align=center><h2>📑 Certificate </h2>
