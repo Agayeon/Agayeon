@@ -38,10 +38,8 @@
 
 📚 향해 99 코딩테스트 Python 스터디 2기 (24.05.27 ~ 24.06.28)
 
-🌍 신한DS SW 금융 아카데미 5기 (25.04.01 ~ ing)
-
+🌍 신한DS SW 금융 아카데미 5기 (25.04.01 ~ 25.10.01)
 🌍 신한DS SW 금융 아카데미 5기 1차 프로젝트 - 개발자를 위한 멘토링 플랫폼 (2025.05 ~ 2025.07.15)
-
 🌍 신한DS SW 금융 아케디마 5기 2차 프로젝트 - 금융 멘토링 플랫폼 (2025.08 ~ 2025.10.01)
 
 </div> 
@@ -51,12 +49,15 @@
    <p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-<h3>프론트</h3>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&logoColor=white">
- <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <h3>프론트</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
 
 
 <br>
