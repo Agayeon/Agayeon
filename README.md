@@ -3,7 +3,7 @@
 
 </div>
 <div align="center">
-  <h2>CONNECT</h2>
+  <h2>Connect</h2>
   <a href="https://www.notion.so/gayeonportfolio/6e842c05b96b43919562cef19eaa8c6b" target="_blank">
     <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
@@ -14,7 +14,7 @@
 <div align=center><h2>Career</h2>
 
 
-🎓 Shinhan Univ. Software Convergence Department ' 21 ( 2021.03 ~ ing )
+🎓 Shinhan Univ. Software Convergence Department ' 21 ( 2021.03 ~ 2026.02 )
 
 💻 사피엔스 4.0 4기 (22.04 ~ 22.11)
 
@@ -28,13 +28,15 @@
 
 👨‍🎓 한국정보인재개발원 인공지능활용분석 2급 취득 ( 2023.04 ~ 2023.06.19 )
 
-👵 요양원 환자의 낙상 방지 알리미 시스템 프로젝트 기획 및 개발 ( 2023.09.01 ~ 2024.01 )
+👵 YOLOv8 기반 요양원 낙상 방지 알리미 시스템
+– 프로젝트 기획 및 개발 (2023.09 ~ 2023.12)
+– IP 기반 창업아이디어 경진대회 최우수상 수상(2024.12.15)
 
-😴 졸음운전 교통사고 방지 알리미 기획 및 개발 "도로의 수호자" ( 2023.10 ~ 2023.12 )
+😴 Teachable Machine을 활용한 졸음운전 교통사고 방지 알리미 기획 및 개발 "도로의 수호자" ( 2023.10 ~ 2023.12 )
 
-🥉 IP 기반 창업아이디어 경진대회에서 낙상 방지 알리미 시스템 개발 (최우수상 수상) (2024.12.15)
-
-🏫 고령자들을 위한 대화형 교육 키오스크 시스템 "SUHO" 팀장 ( 2024.04 ~ 2024.10 )
+🏫 고령자를 위한 대화형 교육 키오스크 시스템 ‘SUHO’ 개발 – 팀장
+– 기획, UI/UX 설계, 화면 디자인, 풀스택/DB 개발 전체 리드 (2024.04 ~ 2024.10)
+– SW 해커톤 경진대회 우수상 수상(2024.12.15)
 
 📚 향해 99 코딩테스트 Python 스터디 2기 (24.05.27 ~ 24.06.28)
 
