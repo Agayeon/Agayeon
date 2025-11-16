@@ -111,9 +111,15 @@
 <div align=center><h2>📑 Certificate </h2>
 
 파이썬프로그래밍활용능력 2급(2023.04)
+<br>
 인공지능활용분석 2급 (2023.06)
+<br>
 Toeic Speaking IH 취득 (24.09.16)
+<br>
 정보처리기사(필기)
+<br>
 SQLD
+<br>
 ADSP
+<br>
 </div>
