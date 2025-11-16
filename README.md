@@ -3,7 +3,7 @@
 
 </div>
 <div align="center">
-  <h2>SNS</h2>
+  <h2>CONNECT</h2>
   <a href="https://www.notion.so/gayeonportfolio/6e842c05b96b43919562cef19eaa8c6b" target="_blank">
     <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
@@ -97,7 +97,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </br>
 
-<hr>
+<br>
 
 <!-- 📊 GITHUB STATS -->
 <div align="center">
