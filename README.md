@@ -14,7 +14,7 @@
 <div align=center><h2>Career</h2>
 
 
- Shinhan Univ. Software Convergence Department ' 21 ( 2021.03 ~ 2026.02 )
+ Shinhan Univ. Software Convergence Department ' 21 ( 2021.03 ~ 2026.08 )
 
  사피엔스 4.0 4기 (22.04 ~ 22.11)
 
@@ -45,6 +45,8 @@
  신한DS SW 금융 아카데미 5기 1차 프로젝트 - 개발자를 위한 멘토링 플랫폼 (2025.05 ~ 2025.07.15)
 
  신한DS SW 금융 아케디마 5기 2차 프로젝트 - 금융 멘토링 플랫폼 (2025.08 ~ 2025.10.01)
+
+ 디케이테크인 커넥트기획팀 인턴 재직 중 (2026.03.30 ~ )
 
 </div> 
 <div align=center>
