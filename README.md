@@ -104,8 +104,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Agayeon&show_icons=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agayeon&layout=compact&langs_count=8" height="165">
 </div>
 
  
