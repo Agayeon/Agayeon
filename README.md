@@ -14,7 +14,7 @@
 <div align=center><h2>Career</h2>
 
 
- Shinhan Univ. Software Convergence Department ' 21 ( 2021.03 ~ 2026.08 )
+ 00 Univ. Software Convergence Department ' 21 ( 2021.03 ~ 2026.08 )
 
  사피엔스 4.0 4기 (22.04 ~ 22.11)
 
